@@ -8,7 +8,7 @@
         "so_huu":null,   
         "nang_cap":{ 
                 "available":false,
-                "price":"100000000"
+                "price":null,
     	        },
     	"level":0,             
         "tien_thue":[null,null,null,null,null],
@@ -18,7 +18,7 @@
         "name":"Tân Kì Tân Quý",
         "top":["15","15","38","38"],
         "left":["98","121","98","121"],
-        "gia":"60",
+        "gia":"60$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -49,7 +49,7 @@
         "name":"Lũy Bán Bích",
         "top":["15","15","38","38"],
         "left":["198","221","198","221"],
-        "gia":"70",
+        "gia":"70$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -79,7 +79,7 @@
         "name":"Bến xe Cần Giuộc",
         "top":["15","15","38","38"],
         "left":["300","323","300","323"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -94,7 +94,7 @@
         "name":"Quang Trung",
         "top":["15","15","38","38"],
         "left":["352","375","352","375"],
-        "gia":"100",
+        "gia":"100$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -125,7 +125,7 @@
         "name":"Nguyễn Kiệm",
         "top":["15","15","38","38"],
         "left":["454","477","454","477"],
-        "gia":"110",
+        "gia":"110$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -140,7 +140,7 @@
         "name":"Cộng Hòa",
         "top":["15","15","38","38"],
         "left":["504","527","504","527"],
-        "gia":"110",
+        "gia":"110$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -170,7 +170,7 @@
         "name":"Hoàng Văn Thụ",
         "top":["87","87","110","110"],
         "left":["587","610","587","610"],
-        "gia":"140",
+        "gia":"140$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -185,7 +185,7 @@
         "name":"Công ty điện lực",
         "top":["134","134","157","157"],
         "left":["587","610","587","610"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -200,7 +200,7 @@
         "name":"Trường Chinh",
         "top":["181","181","204","204"],
         "left":["587","610","587","610"],
-        "gia":"140",
+        "gia":"140$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -215,7 +215,7 @@
         "name":"Lê Đại Hành",
         "top":["229","229","252","252"],
         "left":["587","610","587","610"],
-        "gia":"160",
+        "gia":"160$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -230,7 +230,7 @@
         "name":"Bến xe Miền Đông",
         "top":["276","276","299","299"],
         "left":["587","610","587","610"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -245,7 +245,7 @@
         "name":"Nguyễn Tri Phương", 
         "top":["324","324","347","347"],
         "left":["587","610","587","610"],
-        "gia":"180",
+        "gia":"180$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -276,7 +276,7 @@
         "name":"Kha Vạn Cân",
         "top":["419","419","442","442"],
         "left":["587","610","587","610"],
-        "gia":"180",
+        "gia":"180$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -291,7 +291,7 @@
         "name":"Phạm Thế Hiển",
         "top":["464","464","487","487"],
         "left":["587","610","587","610"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -322,7 +322,7 @@
         "name":"Huỳnh Tấn Phát",
         "top":["542","542","565","565"],
         "left":["504","527","504","527"],
-        "gia":"220",
+        "gia":"220$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -353,7 +353,7 @@
         "name":"Hùng Vương",
         "top":["542","542","565","565"],
         "left":["402","425","402","425"],
-        "gia":"220",
+        "gia":"220$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -368,7 +368,7 @@
         "name":"Hậu Giang",
         "top":["542","542","565","565"],
         "left":["351","374","351","374"],
-        "gia":"240",
+        "gia":"240$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -383,7 +383,7 @@
         "name":"Bến xe Chợ Lớn",
         "top":["542","542","565","565"],
         "left":["300","323","300","323"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -398,7 +398,7 @@
         "name":"An Dương Vương",
         "top":["542","542","565","565"],
         "left":["249","273","249","273"],
-        "gia":"260",
+        "gia":"260$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -413,7 +413,7 @@
         "name":"Nguyễn Trãi",
         "top":["542","542","565","565"],
         "left":["198","221","198","221"],
-        "gia":"260",
+        "gia":"260$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -428,7 +428,7 @@
         "name":"Công ty cấp nước",
         "top":["542","542","565","565"],
         "left":["146","169","146","169"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -443,7 +443,7 @@
         "name":"Nguyễn Tất Thành",
         "top":["542","542","565","565"],
         "left":["96","119","96","119"],
-        "gia":"280",
+        "gia":"280$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -473,7 +473,7 @@
         "name":"Hai Bà Trưng",
         "top":["469","469","492","492"],
         "left":["20","43","20","43"],
-        "gia":"300",
+        "gia":"300$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -488,7 +488,7 @@
         "name":"Võ Thị Sáu",
         "top":["423","423","446","446"],
         "left":["20","43","20","43"],
-        "gia":"300",
+        "gia":"300$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -519,7 +519,7 @@
         "name":"Lương Đình Của",
         "top":["327","327","350","350"],
         "left":["20","43","20","43"],
-        "gia":"320",
+        "gia":"320$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -534,7 +534,7 @@
         "name":"Bến xe Miền Tây",
         "top":["280","280","303","303"],
         "left":["20","43","20","43"],
-        "gia":"200",
+        "gia":"200$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -565,7 +565,7 @@
         "name":"Lê Lợi",
         "top":["185","185","208","208"],
         "left":["20","43","20","43"],
-        "gia":"350",
+        "gia":"350$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -595,7 +595,7 @@
         "name":"Nguyễn Huệ",
         "top":["88","88","111","111"],
         "left":["20","43","20","43"],
-        "gia":"400",
+        "gia":"400$",
         "status":null,
         "so_huu":null,
         "nang_cap":{
