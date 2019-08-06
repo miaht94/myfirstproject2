@@ -64,7 +64,7 @@
         "name":"Thuế thu nhập 10% hoặc 200$",
         "top":["15","15","38","38"],
         "left":["248","271","248","271"],
-        "gia":"null",
+        "gia":null,
         "status":null,
         "so_huu":null,
         "nang_cap":{
@@ -580,7 +580,7 @@
         "name":"Thuế đặc biệt",
         "top":["138","138","161","161"],
         "left":["20","43","20","43"],
-        "gia":"null",
+        "gia":null,
         "status":null,
         "so_huu":null,
         "nang_cap":{
